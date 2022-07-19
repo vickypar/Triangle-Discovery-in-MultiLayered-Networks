@@ -1,5 +1,5 @@
 # Triangle-Discovery-in-MultiLayered-Networks
-This project regards triangle listing in graphs. More specifically, given a large set of relatively small graphs that correspond to the same set of nodes but in different time, the overall triangles are listed and sorted according to their frequency and the top-k triangles can be selected. Two datasets were analyzed containing 733 and 122 graphs, respectively and the algorithm that was implemented is Node Iterator. The project was contacted using the **Scala** programming language and the Apache **Spark** framework.
+This project regards triangle listing in graphs. More specifically, given a large set of relatively small graphs that correspond to the same set of nodes but in different time, the overall triangles are listed and sorted according to their frequency and the top-k triangles can be selected. Two datasets were analyzed containing 733 and 122 graphs, respectively and the algorithm that was implemented is **Node Iterator**Mi. The project was contacted using the **Scala** programming language and the Apache **Spark** framework.
 
 
 ## Table of Contents
@@ -33,7 +33,7 @@ MSc Data and Web Science, School of Informatics, Aristotle University of Thessal
   - {𝑢, 𝑣, 𝑤} ∈ 𝑉  form a triangle if {(𝑢, 𝑣), (𝑢, 𝑤), (𝑣, 𝑤)} ∈ 𝐸
   - Smallest nontrivial clique
 
-![image](https://user-images.githubusercontent.com/95586847/179771791-7a56ac5a-9a54-4f4f-b10b-371e9cc9d311.png)
+  ![image](https://user-images.githubusercontent.com/95586847/179771791-7a56ac5a-9a54-4f4f-b10b-371e9cc9d311.png)
   
 - Problem Definition - Triangle Listing
   - Given an undirected and unweighted graph G(V,E) over time
