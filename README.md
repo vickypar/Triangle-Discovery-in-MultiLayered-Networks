@@ -1,0 +1,2 @@
+# Triangle-Discovery-in-MultiLayered-Networks
+This project regards triangle listing in graphs. More specifically, given a large set of relatively small graphs that correspond to the same set of nodes but in different time, the overall triangles are listed and sorted according to their frequency and the top-k triangles can be selected. Two datasets were analyzed containing 733 and 122 graphs, respectively and the algorithm that was implemented is Node Iterator. The project was contacted using the Scala programming language and the Apache Spark framework.
